@@ -1,5 +1,5 @@
 
-# Signature Matcher: Detailed Report
+# Signature Matcher
 
 ## Introduction
 
