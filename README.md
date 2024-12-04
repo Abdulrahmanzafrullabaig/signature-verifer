@@ -93,6 +93,8 @@ The Signature Matcher application combines the power of deep learning with an ea
 
 ## Output
 ![Screenshot_4-12-2024_102130_127 0 0 1](https://github.com/user-attachments/assets/47a5d2ae-6f92-4834-b024-c74d42c54fac)
+![Screenshot_4-12-2024_102621_127 0 0 1](https://github.com/user-attachments/assets/efd4963e-ae27-465f-9653-90935c823ae1)
+
 
 ## Acknowledgements
 
