@@ -90,6 +90,10 @@ pip install -r requirements.txt
 
 ## Conclusion
 The Signature Matcher application combines the power of deep learning with an easy-to-use web interface to provide an effective tool for signature verification. With continuous improvements and additional features, it can become a robust solution for various authentication needs in industries such as banking, legal, and forensic analysis.
+
+## Output
+![Screenshot_4-12-2024_102130_127 0 0 1](https://github.com/user-attachments/assets/47a5d2ae-6f92-4834-b024-c74d42c54fac)
+
 ## Acknowledgements
 
  I would like to extend my deepest gratitude to Dr. Victor A.I, professor at Maharaja institure of technology Mysore, for his invaluable guidance and support throught the course of this project.
