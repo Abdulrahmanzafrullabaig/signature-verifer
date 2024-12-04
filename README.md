@@ -1,3 +1,4 @@
+![Screenshot_4-12-2024_10199_127 0 0 1](https://github.com/user-attachments/assets/a2029a75-df5c-4cc3-bec0-f95ebd10ba03)
 
 # Signature Matcher: Detailed Report
 
